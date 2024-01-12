@@ -8,5 +8,5 @@ This app is used to track our habit
 *** 
 ***
 *** For result, kindly check out in 
-https://pixe.la/v1/users/<username>/graphs/<graphid>.html
-* Please change <user name> and <graphid> to what you choose in code
+https://pixe.la/v1/users/'username'/graphs/'graphid'.html
+* Please change 'user name' and 'graphid'to what you choose in code
