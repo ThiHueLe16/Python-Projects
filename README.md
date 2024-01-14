@@ -1,1 +1,1 @@
-All of projects in Python languages is in this repository. 
+All projects in Python languages are in this repository. 
