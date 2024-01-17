@@ -5,7 +5,7 @@ This projects is used to track your habit, for example workout activity,... usin
 
 ***
 USAGE TUTORIAL
-
+* Go to the Nutritionix API website: https://www.nutritionix.com/business/api and select "Get Your API Key" to sign up for a free account.
 * go to this link and create a copy of the My Workouts Spreadsheet. You may need to login/register.
 "https://docs.google.com/spreadsheets/d/1E5LwCfkizAxpBmzvF6jcjsASSVShR7DtFHi37EYrQXc/edit#gid=0"
 * Set up your google sheet with sheety used this link:"https://sheety.co/. Login with your google sheet acount and make sure you give sheety permission to access and edit google sheet by click in "See, edit,create and delete all your google spread sheets".

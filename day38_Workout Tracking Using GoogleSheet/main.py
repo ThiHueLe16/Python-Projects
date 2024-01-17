@@ -5,10 +5,12 @@ GENDER = 'female'
 WEIGHT_KG = 45
 HEIGHT_CM = 160
 AGE = 25
+
+# change your nutritionix API key here
 APP_ID="a85c5b71"
 APP_KEY="13d0b21b4d36e2a2e1f8219a99670e88"
 
-# change your sheety api post endpoint hier
+# change your sheety api post endpoint here
 sheety_post_endpoint="https://api.sheety.co/9d464d54e93643d616111bc10cf215f6/myWorkouts/workouts"
 
 # Nutritionix API endpoint for Natural Language for Exercise
