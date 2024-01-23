@@ -7,8 +7,8 @@ from spotipy.oauth2 import SpotifyOAuth
 # "change your personal client_id and client_secret below"
 # read README.md for usage tutorial
 
-CLIENT_ID="e893b63580494f14a4b357360dea8a77"
-CLIENT_SECRET="d7ae72f3bc2e4e06824f037091168257"
+CLIENT_ID="your spotify client id "
+CLIENT_SECRET="your spotify client secret"
 
 # ----------------------------------------------------------------------------------------------------------------
 user_input_date= input("Which year do you want to have the top 100 Billboard song? Type the date in this format "
