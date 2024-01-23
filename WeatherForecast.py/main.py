@@ -1,12 +1,16 @@
 import datetime
 import requests
 from tkinter import *
+# --------------------------------CHANGE YOUR PERSONAL INFORMATION BELOW---------------------------------------
+# read README.md for usage tutoral
+MY_LAT = "lattitude of your current place (type int) "
+MY_LONG = "long titude of your current place in int (type int)"
+MY_CITY = "your city name "
+COUNTRY_CODE = 'your country code, for exp.: US, DE, ...(type string)'
+weather_api_key = 'your weather api key(type string)'
 
-MY_LAT = 48.135124
-MY_LONG = 11.581981
-MY_CITY = "Munich"
-COUNTRY_CODE = 'DE'
-weather_api_key = '6b48826f03d1f93e689ebf80841775a2'
+# --------------------------------------------------------------------------------------------------------------
+
 weather_api_endpoint = 'http://api.openweathermap.org/data/2.5/weather'
 weather_forecast_api_endpoint="https://api.openweathermap.org/data/2.5/forecast"
 BACKGROUND_COLOR = "#FFD1E3"
