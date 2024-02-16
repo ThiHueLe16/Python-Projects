@@ -2,6 +2,7 @@ from flask import Flask, render_template
 import requests
 
 app = Flask(__name__)
+
 URL_BLOG_CONTENT="https://api.npoint.io/c790b4d5cab58020d391"
 response = requests.get(URL_BLOG_CONTENT)
 blogs = response.json()
