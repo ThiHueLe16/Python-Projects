@@ -1,0 +1,1 @@
+This is a small introduction in using Bootstrap to create a simple card 
