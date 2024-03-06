@@ -18,7 +18,7 @@ This is a simple, quick website for your blog where you can post articles, showc
 Replace the placeholder content in HTML files with your blog posts and contact information.
 Customize the CSS styles to match your preferred design.
 
-##What Still Needs Improvement 🚀
+## What Still Needs Improvement 🚀
 While the project has made significant progress, there's a specific area that requires attention:
 
 **Contact Form**
